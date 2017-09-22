@@ -4,5 +4,7 @@ main()
 	floatTest();
 
 	getchar();
+	
+	abc;
 
 }

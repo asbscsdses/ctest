@@ -3,5 +3,7 @@
   <ItemGroup>
     <ClCompile Include="program.c" />
     <ClCompile Include="floattest.c" />
+    <ClCompile Include="prototype.c" />
+    <ClCompile Include="cbasic.c" />
   </ItemGroup>
 </Project>

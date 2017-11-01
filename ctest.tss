@@ -2,10 +2,16 @@
 <ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ArrayOfArrayOfString>
     <ArrayOfString>
-      <string>D:\LF\LfCode\ctest\ctest\program.c</string>
+      <string>D:\LF\LFGit\ctest\ctest\program.c</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>D:\LF\LfCode\ctest\ctest\floattest.c</string>
+      <string>D:\LF\LFGit\ctest\ctest\floattest.c</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\LF\LFGit\ctest\ctest\prototype.c</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\LF\LFGit\ctest\ctest\cbasic.c</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>

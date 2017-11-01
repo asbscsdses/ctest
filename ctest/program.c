@@ -17,9 +17,11 @@ void TestPrototype()
 	newdef(d, j);
 }
 
-main()
+int main()
 {
 	floatTest();
 
 	getchar();
+
+	return 3;
 }

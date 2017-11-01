@@ -56,3 +56,7 @@ dkms.conf
 *.filters
 *.suo
 *.sdf
+*.suo
+*.log
+*.tlog
+*.tlog
